@@ -1,0 +1,8 @@
+{
+  "name": "Google AI Edge Gallery",
+  "description": "Explore, experience, and evaluate on-device Generative AI with Google AI Edge, featuring Gemma 4 with Thinking Mode, Agent Skills, Prompt Lab, and hardware benchmarks.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
